@@ -1,2 +1,4 @@
-# dotfiles-bash
+# OBSOLETE
+
+## dotfiles-bash
 My bash dotfiles
